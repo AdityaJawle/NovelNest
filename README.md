@@ -85,7 +85,7 @@ Steps to Run the Application
 
 Clone the repository:
 
-git clone https://github.com/yourusername/novelnest.git cd novelnest
+git clone https://github.com/AdityaJawle/novelnest.git cd novelnest
 
 Configure MySQL database in application.properties:
 
